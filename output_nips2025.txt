@@ -1,0 +1,809 @@
+Computing embeddings (all-MiniLM-L6-v2)...
+Computed: (5287, 384)
+Saved cache: cache_nips2025_papers_6baae81d_local.npy
+
+================================================================================
+Top 200 Results (showing 200)
+================================================================================
+
+1. [0.5506] $\texttt{STRCMP}$: Integrating Graph Structural Priors with Language Models for Combinatorial Optimization
+   #7504 | machine_learning_for_sciences
+   https://openreview.net/forum?id=VhGUS8kyaC
+
+2. [0.5477] Improving Generalization of Neural Combinatorial Optimization for Vehicle Routing Problems via Test-Time Projection Learning
+   #21867 | optimization
+   https://openreview.net/forum?id=QPJjiNCRq1
+
+3. [0.5387] Alignment of Large Language Models with Constrained Learning
+   #24701 | deep_learning
+   https://openreview.net/forum?id=VcJTTVoysQ
+
+4. [0.5335] Compress Large Language Models via  Collaboration Between Learning and Matrix Approximation
+   #2327 | deep_learning
+   https://openreview.net/forum?id=4EkEL77k6O
+
+5. [0.5271] A Partition Cover Approach to Tokenization
+   #8744 | deep_learning
+   https://openreview.net/forum?id=prGyR9id7X
+
+6. [0.5266] AgentTTS: Large Language Model Agent for Test-time Compute-optimal Scaling Strategy in Complex Tasks
+   #13646 | deep_learning
+   https://openreview.net/forum?id=BuYtcTUMyA
+
+7. [0.5132] Large Language Models as End-to-end Combinatorial Optimization Solvers
+   #15371 | deep_learning
+   https://openreview.net/forum?id=qr5uMEs6iR
+
+8. [0.5082] OptiTree: Hierarchical Thoughts Generation with Tree Search for LLM Optimization Modeling
+   #25426 | other
+   https://openreview.net/forum?id=Ej20yjWMCj
+
+9. [0.5012] PaZO: Preconditioned Accelerated Zeroth-Order Optimization for Fine-Tuning LLMs
+   #21319 | optimization
+   https://openreview.net/forum?id=b2IU6QOOfo
+
+10. [0.4971] Language Modeling by Language Models
+   #8319 | applications
+   https://openreview.net/forum?id=VrCdsZBbIg
+
+11. [0.4971] Exploring Polyglot Harmony: On Multilingual Data Allocation for  Large Language Models Pretraining
+   #3768 | deep_learning
+   https://openreview.net/forum?id=mHHrnCWwrD
+
+12. [0.4939] Approximately Aligned Decoding
+   #13735 | deep_learning
+   https://openreview.net/forum?id=0mOBdNsI3L
+
+13. [0.4922] Lua-LLM: Learning Unstructured-Sparsity Allocation for Large Language Models
+   #2963 | applications
+   https://openreview.net/forum?id=CA1xVSvn72
+
+14. [0.4921] Hierarchical Optimization via LLM-Guided Objective Evolution for Mobility-on-Demand Systems
+   #16951 | optimization
+   https://openreview.net/forum?id=VGB2TV0QUE
+
+15. [0.4909] Complexity Scaling Laws for Neural Models using Combinatorial Optimization
+   #18873 | deep_learning
+   https://openreview.net/forum?id=EdKl4PulMX
+
+16. [0.4889] DynaAct: Large Language Model Reasoning with Dynamic Action Spaces
+   #22375 | reinforcement_learning
+   https://openreview.net/forum?id=R24ZqNwoDz
+
+17. [0.4886] Every Rollout Counts: Optimal Resource Allocation for Efficient Test-Time Scaling
+   #16368 | deep_learning
+   https://openreview.net/forum?id=xSHqNf5Pdc
+
+18. [0.4873] Revolutionizing Training-Free NAS: Towards Efficient Automatic Proxy Discovery via Large Language Models
+   #1201 | deep_learning
+   https://openreview.net/forum?id=3naHyE5klE
+
+19. [0.4861] Preference Optimization by Estimating the Ratio of the Data Distribution
+   #8636 | deep_learning
+   https://openreview.net/forum?id=Iytf59QZzl
+
+20. [0.4850] Synergy over Discrepancy: A Partition-Based Approach to Multi-Domain LLM Fine-Tuning
+   #11721 | deep_learning
+   https://openreview.net/forum?id=2jzGEudVdS
+
+21. [0.4837] The Rise of Parameter Specialization for Knowledge Storage in Large Language Models
+   #23625 | deep_learning
+   https://openreview.net/forum?id=7VkFMKBVVp
+
+22. [0.4833] Theoretical Benefit and Limitation of Diffusion Language Model
+   #14371 | deep_learning
+   https://openreview.net/forum?id=fGBCRZQVse
+
+23. [0.4830] Model Merging in Pre-training of Large Language Models
+   #12271 | deep_learning
+   https://openreview.net/forum?id=HW55AwGEC8
+
+24. [0.4826] metaTextGrad: Automatically optimizing language model optimizers
+   #6332 | deep_learning
+   https://openreview.net/forum?id=10s01YrlKp
+
+25. [0.4824] Partition to Evolve: Niching-enhanced Evolution with LLMs for Automated Algorithm Discovery
+   #7925 | applications
+   https://openreview.net/forum?id=OEawM2coNT
+
+26. [0.4802] MISA: Memory-Efficient LLMs Optimization with Module-wise Importance Sampling
+   #15661 | optimization
+   https://openreview.net/forum?id=yISJGSdzdd
+
+27. [0.4788] Flatten Graphs as Sequences: Transformers are Scalable Graph Generators
+   #11007 | deep_learning
+   https://openreview.net/forum?id=eszmES7j1F
+
+28. [0.4775] Top-H Decoding: Adapting the Creativity and Coherence with Bounded Entropy in Text Generation
+   #13443 | deep_learning
+   https://openreview.net/forum?id=3G0IWDIoRG
+
+29. [0.4766] Large Language Bayes
+   #16531 | probabilistic_methods
+   https://openreview.net/forum?id=ZtXT584LrT
+
+30. [0.4763] Doubly Robust Alignment for Large Language Models
+   #17762 | general_machine_learning
+   https://openreview.net/forum?id=HvklLrtyxK
+
+31. [0.4751] SYMPHONY: Synergistic Multi-agent Planning with Heterogeneous Language Model Assembly
+   #21868 | applications
+   https://openreview.net/forum?id=7Spt8cAJq0
+
+32. [0.4711] Corrector Sampling in Language Models
+   #13366 | deep_learning
+   https://openreview.net/forum?id=stpe7UeETz
+
+33. [0.4706] Quadratic Coreset Selection: Certifying and Reconciling Sequence and Token Mining for Efficient Instruction Tuning
+   #2855 | deep_learning
+   https://openreview.net/forum?id=btZm6DUaDO
+
+34. [0.4703] PseuZO: Pseudo-Zeroth-Order Algorithm for Training Deep Neural Networks
+   #10628 | deep_learning
+   https://openreview.net/forum?id=tM4cHBD7kD
+
+35. [0.4683] Teaching Transformers to Solve Combinatorial Problems through Efficient Trial & Error
+   #16961 | deep_learning
+   https://openreview.net/forum?id=MLprqOvAAK
+
+36. [0.4682] Reasoning Planning for Language Models
+   #21903 | deep_learning
+   https://openreview.net/forum?id=QFjssnKdBI
+
+37. [0.4675] Differentiable extensions with rounding guarantees for combinatorial optimization over permutations
+   #13327 | optimization
+   https://openreview.net/forum?id=aAxk0cw6GW
+
+38. [0.4675] TANDEM: Bi-Level Data Mixture Optimization with Twin Networks
+   #21447 | deep_learning
+   https://openreview.net/forum?id=szBFUtBzWP
+
+39. [0.4663] From Bytes to Ideas: Language Modeling with Autoregressive U-Nets
+   #13002 | deep_learning
+   https://openreview.net/forum?id=FnFf7Ru2ur
+
+40. [0.4652] Chain-of-Model Learning for Language Model
+   #4761 | deep_learning
+   https://openreview.net/forum?id=sbmYVM4zRr
+
+41. [0.4647] Parallel Scaling Law for Language Models
+   #9251 | deep_learning
+   https://openreview.net/forum?id=dEi1S731lk
+
+42. [0.4646] Sparse MeZO: Less Parameters for Better Performance in Zeroth-Order LLM Fine-Tuning
+   #15669 | optimization
+   https://openreview.net/forum?id=Tjw0ACu3NL
+
+43. [0.4644] zip2zip: Inference-Time Adaptive Tokenization via Online Compression
+   #22897 | deep_learning
+   https://openreview.net/forum?id=Hmepi1Fm2g
+
+44. [0.4644] GPO: Learning from Critical Steps to Improve LLM Reasoning
+   #14435 | deep_learning
+   https://openreview.net/forum?id=c6RDAutyNE
+
+45. [0.4638] Beyond Higher Rank: Token-wise Input-Output Projections for Efficient Low-Rank Adaptation
+   #1907 | deep_learning
+   https://openreview.net/forum?id=w2xl15ZbD3
+
+46. [0.4628] Let Me Think! A Long Chain of Thought Can Be Worth Exponentially Many Short Ones
+   #25819 | deep_learning
+   https://openreview.net/forum?id=GuvQJGgbLm
+
+47. [0.4610] Breaking the Frozen Subspace: Importance Sampling for Low-Rank Optimization in LLM Pretraining
+   #18773 | deep_learning
+   https://openreview.net/forum?id=ZdmmOAN4h3
+
+48. [0.4608] Streaming Attention Approximation via Discrepancy Theory
+   #21347 | theory
+   https://openreview.net/forum?id=p3HBEtNDRY
+
+49. [0.4605] Breaking AR’s Sampling Bottleneck: Provable Acceleration via Diffusion Language Models
+   #16725 | theory
+   https://openreview.net/forum?id=to1VYVar9W
+
+50. [0.4591] ShortListing Model: A Streamlined Simplex Diffusion for Discrete Variable Generation
+   #15115 | machine_learning_for_sciences
+   https://openreview.net/forum?id=ZAu7sADxfh
+
+51. [0.4587] Multi-Objective One-Shot Pruning for Large Language Models
+   #15825 | deep_learning
+   https://openreview.net/forum?id=aNpj43Uh35
+
+52. [0.4576] L-MTP: Leap Multi-Token Prediction Beyond Adjacent Context for Large Language Models
+   #1004 | deep_learning
+   https://openreview.net/forum?id=0VDmWjW456
+
+53. [0.4567] GoRA: Gradient-driven Adaptive Low Rank Adaptation
+   #6806 | deep_learning
+   https://openreview.net/forum?id=d1dL1ymD6N
+
+54. [0.4559] Inference-Time Reward Hacking in Large Language Models
+   #25917 | social_and_economic_aspects_of_machine_learning
+   https://openreview.net/forum?id=hSX7Dd8dxy
+
+55. [0.4559] Structure-Aware Cooperative Ensemble Evolutionary Optimization on Combinatorial Problems with Multimodal Large Language Models
+   #25561 | machine_learning_for_sciences
+   https://openreview.net/forum?id=zftxlb1AOo
+
+56. [0.4547] Discovering Important Experts for Mixture-of-Experts Models Pruning Through a Theoretical Perspective
+   #20 | deep_learning
+   https://openreview.net/forum?id=7kQjbCQwtT
+
+57. [0.4546] KL-Regularized RLHF with Multiple Reference Models: Exact Solutions and Sample Complexity
+   #17612 | reinforcement_learning
+   https://openreview.net/forum?id=j8XnFfTvXF
+
+58. [0.4537] Robust Federated Finetuning of LLMs via Alternating Optimization of LoRA
+   #5662 | deep_learning
+   https://openreview.net/forum?id=e8DrPuJekZ
+
+59. [0.4537] Beyond Single-Task: Robust Multi-Task Length Generalization for LLMs
+   #6313 | deep_learning
+   https://openreview.net/forum?id=2T6GWekWSm
+
+60. [0.4526] L$^2$M: Mutual Information Scaling Law for Long-Context Language Modeling
+   #20052 | deep_learning
+   https://openreview.net/forum?id=s3maemwE5M
+
+61. [0.4520] Scaling Laws for Gradient Descent and Sign Descent for Linear Bigram Models under Zipf’s Law
+   #24344 | optimization
+   https://openreview.net/forum?id=VUbwLjLkws
+
+62. [0.4518] Adaptive Batch-Wise Sample Scheduling for Direct Preference Optimization
+   #11557 | general_machine_learning
+   https://openreview.net/forum?id=8FN25PlktS
+
+63. [0.4497] ZeCO: Zero-Communication Overhead Sequence Parallelism for Linear Attention
+   #16909 | infrastructure
+   https://openreview.net/forum?id=eHRFb3DSZS
+
+64. [0.4494] Accelerating Block Coordinate Descent for LLM Finetuning via Landscape Expansion
+   #5797 | optimization
+   https://openreview.net/forum?id=DBybUx7ARy
+
+65. [0.4493] Aligning Transformers with Continuous Feedback via Energy Rank Alignment
+   #25305 | machine_learning_for_sciences
+   https://openreview.net/forum?id=SXxlb1miXS
+
+66. [0.4489] HiMoLE: Towards OOD-Robust LoRA via Hierarchical Mixture of Experts
+   #14076 | deep_learning
+   https://openreview.net/forum?id=wsR7VYXbdR
+
+67. [0.4487] RidgeLoRA: Matrix Ridge Enhanced Low-Rank Adaptation of Large Language Models
+   #20273 | deep_learning
+   https://openreview.net/forum?id=0RF80tUWuv
+
+68. [0.4476] Solving the Asymmetric Traveling Salesman Problem via Trace-Guided Cost Augmentation
+   #25090 | optimization
+   https://openreview.net/forum?id=CNxrp7u5gV
+
+69. [0.4467] Rethinking Neural Combinatorial Optimization for Vehicle Routing Problems with Different Constraint Tightness Degrees
+   #22722 | optimization
+   https://openreview.net/forum?id=Lwn1rLB8t7
+
+70. [0.4464] Constrained Entropic Unlearning: A Primal-Dual Framework for Large Language Models
+   #22686 | deep_learning
+   https://openreview.net/forum?id=ZtB34bQI54
+
+71. [0.4457] ComPO: Preference Alignment via Comparison Oracles
+   #202 | deep_learning
+   https://openreview.net/forum?id=0lNwIIHWhZ
+
+72. [0.4454] Beyond Value Functions: Single-Loop Bilevel Optimization under Flatness Conditions
+   #14566 | optimization
+   https://openreview.net/forum?id=dCGQlVRa2B
+
+73. [0.4453] InfiFPO: Implicit Model Fusion via Preference Optimization in Large Language Models
+   #20361 | deep_learning
+   https://openreview.net/forum?id=ZwBtDbuzjY
+
+74. [0.4446] Probabilistic Token Alignment for Large Language Model Fusion
+   #5214 | deep_learning
+   https://openreview.net/forum?id=8LMwwt8E2s
+
+75. [0.4444] Fira: Can We Achieve Full-rank Training of LLMs Under Low-rank Constraint?
+   #5427 | deep_learning
+   https://openreview.net/forum?id=7aSBAw7tJf
+
+76. [0.4436] Provable Scaling Laws for the Test-Time Compute of Large Language Models
+   #12308 | general_machine_learning
+   https://openreview.net/forum?id=GBMzJLhsRj
+
+77. [0.4432] REASONING COMPILER: LLM-Guided Optimizations for Efficient Model Serving
+   #24649 | infrastructure
+   https://openreview.net/forum?id=2D4TuZyNnr
+
+78. [0.4421] Conformal Information Pursuit for Interactively Guiding Large Language Models
+   #7463 | general_machine_learning
+   https://openreview.net/forum?id=xAHozxfuUW
+
+79. [0.4416] Advancing Expert Specialization for Better MoE
+   #15912 | deep_learning
+   https://openreview.net/forum?id=iydmH9boLb
+
+80. [0.4413] Training Language Models to Reason Efficiently
+   #18223 | deep_learning
+   https://openreview.net/forum?id=AiZxn84Wdo
+
+81. [0.4407] Length Generalization via Auxiliary Tasks
+   #24918 | theory
+   https://openreview.net/forum?id=QL3J1fyAFv
+
+82. [0.4398] Exact Expressive Power of Transformers with Padding
+   #13073 | theory
+   https://openreview.net/forum?id=O1abxStFcy
+
+83. [0.4397] Set-LLM: A Permutation-Invariant LLM
+   #23136 | deep_learning
+   https://openreview.net/forum?id=Eyis2h3tba
+
+84. [0.4382] Escaping Collapse: The Strength of Weak Data for Large Language Model Training
+   #13179 | theory
+   https://openreview.net/forum?id=xpY3C8HxNh
+
+85. [0.4380] Incentivizing Reasoning for Advanced Instruction-Following of Large Language Models
+   #1794 | deep_learning
+   https://openreview.net/forum?id=vRVfgcoeIl
+
+86. [0.4380] Foundations of Top-$k$ Decoding for Language Models
+   #16846 | theory
+   https://openreview.net/forum?id=G7CiAs8xyw
+
+87. [0.4379] MGUP: A Momentum-Gradient Alignment Update Policy for Stochastic Optimization
+   #11596 | optimization
+   https://openreview.net/forum?id=TDFSKAspoQ
+
+88. [0.4368] MURKA: Multi-Reward Reinforcement Learning with Knowledge Alignment for Optimization Tasks
+   #1256 | deep_learning
+   https://openreview.net/forum?id=f4pvPNf9ox
+
+89. [0.4363] Omnipresent Yet Overlooked: Heat Kernels in Combinatorial Bayesian Optimization
+   #23358 | probabilistic_methods
+   https://openreview.net/forum?id=hdT7UC7oG6
+
+90. [0.4363] Sampling-Efficient Test-Time Scaling: Self-Estimating the Best-of-N Sampling in Early Decoding
+   #7777 | deep_learning
+   https://openreview.net/forum?id=BcKYVmh3yH
+
+91. [0.4344] QiMeng-NeuComBack: Self-Evolving Translation from IR to Assembly Code
+   #20952 | deep_learning
+   https://openreview.net/forum?id=4qVWY12KQT
+
+92. [0.4339] Semantic-guided Diverse Decoding for Large Language Model
+   #11978 | deep_learning
+   https://openreview.net/forum?id=Hmd8CqMo3E
+
+93. [0.4339] Flexible Language Modeling in Continuous Space with Transformer-based Autoregressive Flows
+   #27385 | deep_learning
+   https://openreview.net/forum?id=MR7Fn23hSE
+
+94. [0.4339] Bilevel ZOFO: Efficient LLM Fine-Tuning and Meta-Training
+   #5483 | deep_learning
+   https://openreview.net/forum?id=v6vBK4t8vB
+
+95. [0.4330] MuRating: A High Quality Data Selecting Approach to Multilingual Large Language Model Pretraining
+   #28254 | deep_learning
+   https://openreview.net/forum?id=jHWCeU39Ft
+
+96. [0.4326] PRESTO: Preimage-Informed Instruction Optimization for Prompting Black-Box LLMs
+   #12346 | deep_learning
+   https://openreview.net/forum?id=I9VNWQ15Ni
+
+97. [0.4326] Inv-Entropy: A Fully Probabilistic Framework for Uncertainty Quantification in Language Models
+   #22655 | deep_learning
+   https://openreview.net/forum?id=KMbl8lg5Rv
+
+98. [0.4322] 3BASiL: An Algorithmic Framework for Sparse plus Low-Rank Compression of LLMs
+   #24116 | optimization
+   https://openreview.net/forum?id=byNNv5Et10
+
+99. [0.4318] S'MoRE: Structural Mixture of Residual Experts for Parameter-Efficient LLM Fine-tuning
+   #6835 | deep_learning
+   https://openreview.net/forum?id=LbNL8xGai2
+
+100. [0.4308] FFN Fusion: Rethinking Sequential Computation in Large Language Models
+   #19798 | deep_learning
+   https://openreview.net/forum?id=XUmGMBRv4M
+
+101. [0.4308] C3PO: Optimized Large Language Model Cascades with Probabilistic Cost Constraints for Reasoning
+   #23462 | deep_learning
+   https://openreview.net/forum?id=e4IlBqhbTO
+
+102. [0.4299] Communication-Efficient Language Model Training Scales Reliably and Robustly: Scaling Laws for DiLoCo
+   #22663 | deep_learning
+   https://openreview.net/forum?id=X4SCxcgb3O
+
+103. [0.4293] Multimodal Bandits: Regret Lower Bounds and Optimal Algorithms
+   #20901 | reinforcement_learning
+   https://openreview.net/forum?id=4wnhbcppot
+
+104. [0.4293] Heterogeneous Swarms: Jointly Optimizing Model Roles and Weights for Multi-LLM Systems
+   #17969 | applications
+   https://openreview.net/forum?id=zYEZ5KqtDO
+
+105. [0.4287] SimpleStrat: Diversifying Language Model Generation with Stratification
+   #26755 | probabilistic_methods
+   https://openreview.net/forum?id=X5B2yTT97A
+
+106. [0.4287] Inference-time Alignment in Continuous Space
+   #27164 | deep_learning
+   https://openreview.net/forum?id=aokiuaM7Lt
+
+107. [0.4271] Mixtures of Subspaces for Bandwidth Efficient Context Parallel Training
+   #19273 | deep_learning
+   https://openreview.net/forum?id=x3qnrhfhX0
+
+108. [0.4269] Steering Generative Models with Experimental Data for Protein Fitness Optimization
+   #8401 | machine_learning_for_sciences
+   https://openreview.net/forum?id=Ice2BHIumz
+
+109. [0.4268] Layer as Puzzle Pieces: Compressing Large Language Models through Layer Concatenation
+   #22642 | deep_learning
+   https://openreview.net/forum?id=enhFXzKii4
+
+110. [0.4265] MoBA: Mixture of Block Attention for Long-Context LLMs
+   #18747 | deep_learning
+   https://openreview.net/forum?id=RlqYCpTu1P
+
+111. [0.4264] Large Language Diffusion Models
+   #15375 | deep_learning
+   https://openreview.net/forum?id=KnqiC0znVF
+
+112. [0.4261] Non-monotone Submodular Optimization: $p$-Matchoid Constraints and Fully Dynamic Setting
+   #24172 | theory
+   https://openreview.net/forum?id=GdrBPyUNPL
+
+113. [0.4261] Fast and Fluent Diffusion Language Models via Convolutional Decoding and Rejective Fine-tuning
+   #18776 | deep_learning
+   https://openreview.net/forum?id=HvIRFV0J90
+
+114. [0.4260] OPTFM: A Scalable Multi-View Graph Transformer for Hierarchical Pre-Training in Combinatorial Optimization
+   #12076 | optimization
+   https://openreview.net/forum?id=24tuzE5KZc
+
+115. [0.4258] Learning to Better Search with Language Models via Guided Reinforced Self-Training
+   #14313 | deep_learning
+   https://openreview.net/forum?id=Awl3ZhDHuQ
+
+116. [0.4257] DINGO: Constrained Inference for Diffusion LLMs
+   #25872 | deep_learning
+   https://openreview.net/forum?id=KaYMGsnZ4R
+
+117. [0.4253] On the Bias of Next-Token Predictors Toward Systematically Inefficient Reasoning: A Shortest-Path Case Study
+   #24038 | deep_learning
+   https://openreview.net/forum?id=l8razJItEy
+
+118. [0.4249] Small Batch Size Training for Language Models: When Vanilla SGD Works, and Why Gradient Accumulation is Wasteful
+   #24003 | deep_learning
+   https://openreview.net/forum?id=52Ehpe0Lu5
+
+119. [0.4248] Data Mixing Can Induce Phase Transitions in Knowledge Acquisition
+   #5800 | deep_learning
+   https://openreview.net/forum?id=tQZK5frjVU
+
+120. [0.4246] Beyond Attention or Similarity: Maximizing Conditional Diversity for Token Pruning in MLLMs
+   #1685 | applications
+   https://openreview.net/forum?id=BLLixcuZgl
+
+121. [0.4244] Boosting Resilience of Large Language Models through Causality-Driven Robust Optimization
+   #1526 | deep_learning
+   https://openreview.net/forum?id=g9sWQsqemL
+
+122. [0.4241] Hogwild! Inference: Parallel LLM Generation via Concurrent Attention
+   #17082 | deep_learning
+   https://openreview.net/forum?id=roKj4IwaVT
+
+123. [0.4240] LLM at Network Edge: A Layer-wise Efficient Federated Fine-tuning Approach
+   #11247 | deep_learning
+   https://openreview.net/forum?id=DqRbfiTdKK
+
+124. [0.4239] Fast Computation and Optimization for Opinion-Based Quantities of Friedkin-Johnsen Model
+   #10002 | social_and_economic_aspects_of_machine_learning
+   https://openreview.net/forum?id=lCsVtkMusN
+
+125. [0.4233] Creativity or Brute Force? Using Brainteasers as a Window into the Problem-Solving Abilities of Large Language Models
+   #26133 | deep_learning
+   https://openreview.net/forum?id=3oQDkmW72a
+
+126. [0.4228] FlexOLMo: Open Language Models for Flexible Data Use
+   #18204 | deep_learning
+   https://openreview.net/forum?id=1rUj9ZN6Bz
+
+127. [0.4227] Safety Depth in Large Language Models: A Markov Chain Perspective
+   #5493 | social_and_economic_aspects_of_machine_learning
+   https://openreview.net/forum?id=tu3P6KSHGN
+
+128. [0.4219] TreeSynth: Synthesizing Diverse Data from Scratch via Tree-Guided Subspace Partitioning
+   #10446 | applications
+   https://openreview.net/forum?id=wmweEDugTZ
+
+129. [0.4216] Uniform Wrappers: Bridging Concave to Quadratizable Functions in Online Optimization
+   #27574 | optimization
+   https://openreview.net/forum?id=dgQRSJdo6a
+
+130. [0.4211] Language Ranker: A Lightweight Ranking framework for LLM Decoding
+   #10120 | deep_learning
+   https://openreview.net/forum?id=ruzMpz4rBC
+
+131. [0.4206] Nested Learning: The Illusion of Deep Learning Architectures
+   #17710 | deep_learning
+   https://openreview.net/forum?id=nbMeRvNb7A
+
+132. [0.4205] Gradient Multi-Normalization for Efficient LLM Training
+   #16977 | deep_learning
+   https://openreview.net/forum?id=oanhUGY6un
+
+133. [0.4204] ASGO: Adaptive Structured Gradient Optimization
+   #18201 | optimization
+   https://openreview.net/forum?id=fru52tkjHf
+
+134. [0.4204] Weaver: Shrinking the Generation-Verification Gap by Scaling Compute for Verification
+   #9573 | deep_learning
+   https://openreview.net/forum?id=dRjt4vlYVQ
+
+135. [0.4202] Offline RL by Reward-Weighted Fine-Tuning for Conversation Optimization
+   #19175 | deep_learning
+   https://openreview.net/forum?id=WAFD6VYIEa
+
+136. [0.4202] Constrained Sampling for Language Models Should Be Easy: An MCMC Perspective
+   #13457 | probabilistic_methods
+   https://openreview.net/forum?id=M1b7IuY6Co
+
+137. [0.4200] SimulMEGA: MoE Routers are Advanced Policy Makers for Simultaneous Speech Translation
+   #15151 | applications
+   https://openreview.net/forum?id=v4AT18kysa
+
+138. [0.4197] DenoiseRotator: Enhance Pruning Robustness for LLMs via Importance Concentration
+   #9077 | deep_learning
+   https://openreview.net/forum?id=9e2H9DhKPa
+
+139. [0.4194] Activation-Informed Merging of Large Language Models
+   #23408 | deep_learning
+   https://openreview.net/forum?id=T4qJuQCFAK
+
+140. [0.4191] Generalizable Reasoning through Compositional Energy Minimization
+   #22350 | deep_learning
+   https://openreview.net/forum?id=5k0AHYc4MJ
+
+141. [0.4185] Optimizing Anytime Reasoning via Budget Relative Policy Optimization
+   #25135 | deep_learning
+   https://openreview.net/forum?id=jFaFCc5978
+
+142. [0.4183] Reinforcement Learning Finetunes Small Subnetworks in Large Language Models
+   #9822 | deep_learning
+   https://openreview.net/forum?id=0NdS4xCngO
+
+143. [0.4176] Logic.py: Bridging the Gap between LLMs and Constraint Solvers
+   #4535 | reinforcement_learning
+   https://openreview.net/forum?id=6Mah2bx7ZI
+
+144. [0.4176] Accelerating data-driven algorithm selection for combinatorial partitioning problems
+   #24668 | theory
+   https://openreview.net/forum?id=sXpyn3lAb5
+
+145. [0.4171] Linearization Explains Fine-Tuning in Large Language Models
+   #26398 | deep_learning
+   https://openreview.net/forum?id=tdwRIP6NG2
+
+146. [0.4167] Hyperbolic Fine-Tuning for Large Language Models
+   #20160 | deep_learning
+   https://openreview.net/forum?id=TkEdQv0bXB
+
+147. [0.4167] Quantifying Elicitation of Latent Capabilities in Language Models
+   #27289 | deep_learning
+   https://openreview.net/forum?id=Dkgx2pS4Ww
+
+148. [0.4166] Probing Neural Combinatorial Optimization Models
+   #19406 | optimization
+   https://openreview.net/forum?id=ycnc9aLnQu
+
+149. [0.4166] Objective Soups: Multilingual Multi-Task Modeling for Speech Processing
+   #19145 | applications
+   https://openreview.net/forum?id=u0YyIHljXO
+
+150. [0.4166] Neural Networks for Learnable and Scalable Influence Estimation of Instruction Fine-Tuning Data
+   #7417 | deep_learning
+   https://openreview.net/forum?id=4zea5Bcemp
+
+151. [0.4165] Anchored Diffusion Language Model
+   #963 | deep_learning
+   https://openreview.net/forum?id=E8adS5srds
+
+152. [0.4159] PoLAR: Polar-Decomposed Low-Rank Adapter Representation
+   #4079 | deep_learning
+   https://openreview.net/forum?id=jDxFD45kkc
+
+153. [0.4157] PermLLM: Learnable Channel Permutation for N:M Sparse Large Language Models
+   #10620 | deep_learning
+   https://openreview.net/forum?id=V13dSX1wAs
+
+154. [0.4156] Born a Transformer -- Always a Transformer? On the Effect of Pretraining on Architectural Abilities
+   #27594 | deep_learning
+   https://openreview.net/forum?id=Huw15LqglI
+
+155. [0.4152] Optimization Inspired Few-Shot Adaptation for Large Language Models
+   #3259 | deep_learning
+   https://openreview.net/forum?id=rZ2nSt1X58
+
+156. [0.4152] The Emergence of Abstract Thought in Large Language Models Beyond Any Language
+   #25818 | deep_learning
+   https://openreview.net/forum?id=ZE9cxnEBpy
+
+157. [0.4151] LongMagpie: A Self-synthesis Method for Generating Large-scale Long-context Instructions
+   #12406 | deep_learning
+   https://openreview.net/forum?id=tuA2R6gZEA
+
+158. [0.4151] Compiler-R1: Towards Agentic Compiler Auto-tuning with Reinforcement Learning
+   #1556 | machine_learning_for_sciences
+   https://openreview.net/forum?id=tY8ctrD4W2
+
+159. [0.4149] Ada-KV: Optimizing KV Cache Eviction by Adaptive Budget Allocation for Efficient LLM Inference
+   #19607 | deep_learning
+   https://openreview.net/forum?id=tcisuhGsQZ
+
+160. [0.4149] Accelerating Diffusion LLMs via Adaptive Parallel Decoding
+   #27131 | deep_learning
+   https://openreview.net/forum?id=xwqTt26NJf
+
+161. [0.4143] Generalization Guarantees for Learning Score-Based Branch-and-Cut Policies in Integer Programming
+   #7423 | optimization
+   https://openreview.net/forum?id=v5ru9MGjsW
+
+162. [0.4142] On Union-Closedness of Language Generation
+   #18302 | theory
+   https://openreview.net/forum?id=6h7HLx1kbH
+
+163. [0.4140] PARCO: Parallel AutoRegressive Models for Multi-Agent Combinatorial Optimization
+   #20887 | reinforcement_learning
+   https://openreview.net/forum?id=9F2Cmgo17M
+
+164. [0.4137] MESS+: Dynamically Learned Inference-Time LLM Routing in Model Zoos with Service Level Guarantees
+   #17761 | general_machine_learning
+   https://openreview.net/forum?id=wIM0y07NGX
+
+165. [0.4133] Online Mixture of Experts: No-Regret Learning for Optimal Collective Decision-Making
+   #6399 | general_machine_learning
+   https://openreview.net/forum?id=Zfgvo65gxm
+
+166. [0.4132] Critical Batch Size Revisited: A Simple Empirical Approach to Large-Batch Language Model Training
+   #13206 | deep_learning
+   https://openreview.net/forum?id=XUKUx7Xu89
+
+167. [0.4131] Web-Shepherd: Advancing PRMs for Reinforcing Web Agents
+   #28009 | applications
+   https://openreview.net/forum?id=G2kMroO9UV
+
+168. [0.4130] Diffusion Beats Autoregressive in Data-Constrained Settings
+   #17792 | deep_learning
+   https://openreview.net/forum?id=W5Ht05jF4c
+
+169. [0.4127] Algorithm- and Data-Dependent Generalization Bounds for Diffusion Models
+   #12063 | theory
+   https://openreview.net/forum?id=N4OFsehhi7
+
+170. [0.4125] Explaining and Mitigating Crosslingual Tokenizer Inequities
+   #23284 | deep_learning
+   https://openreview.net/forum?id=0Y7AxxNCYh
+
+171. [0.4124] Understanding LLM Behaviors via Compression: Data Generation, Knowledge Acquisition and Scaling Laws
+   #15024 | theory
+   https://openreview.net/forum?id=853SwC2dMZ
+
+172. [0.4122] Online Two-Stage Submodular Maximization
+   #13544 | optimization
+   https://openreview.net/forum?id=aTlVrJRrNg
+
+173. [0.4118] SolverLLM: Leveraging Test-Time Scaling for Optimization Problem via LLM-Guided Search
+   #18795 | deep_learning
+   https://openreview.net/forum?id=mN3CMpfWR6
+
+174. [0.4115] Scaling Up Active Testing to Large Language Models
+   #13181 | deep_learning
+   https://openreview.net/forum?id=UE0cxjNnIw
+
+175. [0.4110] GRAPE: Optimize Data Mixture for Group Robust Multi-target Adaptive Pretraining
+   #13350 | deep_learning
+   https://openreview.net/forum?id=JRmIvBcnWc
+
+176. [0.4106] Program Synthesis via Test-Time Transduction
+   #21350 | applications
+   https://openreview.net/forum?id=YJx8AofTF5
+
+177. [0.4103] HyperET: Efficient Training in Hyperbolic Space for Multi-modal Large Language Models
+   #5784 | applications
+   https://openreview.net/forum?id=NM8Apk61NA
+
+178. [0.4102] CoIDO: Efficient Data Selection for Visual Instruction Tuning via Coupled Importance-Diversity Optimization
+   #1021 | deep_learning
+   https://openreview.net/forum?id=pXXKKBx8G0
+
+179. [0.4100] Cost-Aware Contrastive Routing for LLMs
+   #16804 | deep_learning
+   https://openreview.net/forum?id=4Qe2Hga43N
+
+180. [0.4099] Scaling Embedding Layers in Language Models
+   #11133 | deep_learning
+   https://openreview.net/forum?id=gH4BRa4ZP3
+
+181. [0.4098] System Prompt Optimization with Meta-Learning
+   #11461 | deep_learning
+   https://openreview.net/forum?id=IYVknFxsJb
+
+182. [0.4096] The First Few Tokens Are All You Need: An Efficient and Effective Unsupervised Prefix Fine-Tuning Method for Reasoning Models
+   #26744 | deep_learning
+   https://openreview.net/forum?id=1SCMFCGliM
+
+183. [0.4091] AgentBreeder: Mitigating the AI Safety Risks of Multi-Agent Scaffolds via Self-Improvement
+   #10342 | deep_learning
+   https://openreview.net/forum?id=mlU9KqdZUS
+
+184. [0.4089] Efficient Data Selection at Scale via Influence Distillation
+   #21907 | deep_learning
+   https://openreview.net/forum?id=E6ZdfjtoiX
+
+185. [0.4089] Synergistic Tensor and Pipeline Parallelism
+   #12174 | infrastructure
+   https://openreview.net/forum?id=eIojV2epgX
+
+186. [0.4088] Steering When Necessary: Flexible Steering Large Language Models with Backtracking
+   #9747 | applications
+   https://openreview.net/forum?id=l75RyRcevf
+
+187. [0.4087] MPS-Prover: Advancing Stepwise Theorem Proving by Multi-Perspective Search and Data Curation
+   #19322 | deep_learning
+   https://openreview.net/forum?id=Ox3U97Svtl
+
+188. [0.4081] GVPO: Group Variance Policy Optimization for Large Language Model Post-Training
+   #10280 | deep_learning
+   https://openreview.net/forum?id=cCYUFaR6En
+
+189. [0.4078] SE-Agent: Self-Evolution Trajectory Optimization in Multi-Step Reasoning with LLM-Based Agents
+   #21709 | applications
+   https://openreview.net/forum?id=isATAFP71B
+
+190. [0.4076] FastLongSpeech: Enhancing Large Speech-Language Models for Efficient Long-Speech Processing
+   #16277 | applications
+   https://openreview.net/forum?id=jaMPaFDAaZ
+
+191. [0.4075] AdaMSS: Adaptive Multi-Subspace Approach for Parameter-Efficient Fine-Tuning
+   #13461 | deep_learning
+   https://openreview.net/forum?id=8ZdWmpYxT0
+
+192. [0.4071] Matching Markets Meet LLMs: Algorithmic Reasoning with Ranked Preferences
+   #21892 | deep_learning
+   https://openreview.net/forum?id=1zKElu2MuQ
+
+193. [0.4069] Accurate KV Cache Eviction via Anchor Direction Projection for Efficient LLM Inference
+   #27280 | deep_learning
+   https://openreview.net/forum?id=Tdl89SZItB
+
+194. [0.4068] Explainable Reinforcement Learning from Human Feedback to Improve Alignment
+   #12985 | deep_learning
+   https://openreview.net/forum?id=k2wzVFXZmC
+
+195. [0.4064] PT-MoE: An Efficient Finetuning Framework for Integrating Mixture-of-Experts into Prompt Tuning
+   #11058 | deep_learning
+   https://openreview.net/forum?id=ZSAWYtIwGg
+
+196. [0.4063] Exploring the limits of strong membership inference attacks on large language models
+   #12243 | social_and_economic_aspects_of_machine_learning
+   https://openreview.net/forum?id=x0i7wvRLHK
+
+197. [0.4063] NaDRO: Leveraging Dual-Reward Strategies for LLMs Training on Noisy Data
+   #1115 | optimization
+   https://openreview.net/forum?id=e7jNIna1eP
+
+198. [0.4060] From Condensation to Rank Collapse: A Two-Stage Analysis of Transformer Training Dynamics
+   #15835 | deep_learning
+   https://openreview.net/forum?id=gm5mkiTGOy
+
+199. [0.4060] SCOPE: Saliency-Coverage Oriented Token Pruning for Efficient Multimodel LLMs
+   #4718 | deep_learning
+   https://openreview.net/forum?id=oUghNi5XWc
+
+200. [0.4055] Greedy Sampling Is Provably Efficient For RLHF
+   #23555 | reinforcement_learning
+   https://openreview.net/forum?id=jQH0gdwsuT
+
+Saved to results.json

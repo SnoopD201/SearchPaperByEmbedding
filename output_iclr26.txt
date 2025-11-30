@@ -1,0 +1,808 @@
+Loaded cache: (16698, 384)
+Using cached embeddings
+
+================================================================================
+Top 200 Results (showing 200)
+================================================================================
+
+1. [0.5967] Evaluating LLMs for Combinatorial Optimization: One-Phase and Two-Phase Heuristics for 2D Bin-Packing
+   #3137 | optimization
+   https://openreview.net/forum?id=9i3PS60x4z
+
+2. [0.5775] Benchmarking Optimizers for Large Language Model Pretraining
+   #13372 | datasets and benchmarks
+   https://openreview.net/forum?id=Jw7khYzYzl
+
+3. [0.5612] Concise Reasoning in the Lens of Lagrangian Optimization
+   #19020 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=msKQYIfgVm
+
+4. [0.5534] Don't Be Greedy, Just Relax! Pruning of LLMs via Frank-Wolfe
+   #19037 | unsupervised, self-supervised, semi-supervised, and supervised representation learning
+   https://openreview.net/forum?id=rzGEfYr2ZC
+
+5. [0.5504] ACCORD: Autoregressive Constraint-satisfying Generation for COmbinatorial Optimization with Routing and Dynamic attention
+   #21260 | neurosymbolic & hybrid AI systems (physics-informed, logic & formal reasoning, etc.)
+   https://openreview.net/forum?id=f0TBAdcJ8m
+
+6. [0.5487] MoEP: Compact and Efficient Sparsity with Modular Expert Paths
+   #24465 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=DAPcmFcqgd
+
+7. [0.5439] Best-of-Infinity: Asymptotic Performance of Test-Time Compute
+   #24953 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=3qiCnLf3jf
+
+8. [0.5418] Can Large Language Models Help with Model Counting?
+   #13397 | neurosymbolic & hybrid AI systems (physics-informed, logic & formal reasoning, etc.)
+   https://openreview.net/forum?id=JZCgbU8irx
+
+9. [0.5371] Max-Speedup Speculative Sampling: A Generic Tree Construction Principle
+   #2959 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=oGPeI321sI
+
+10. [0.5305] RedAHD: Toward End-to-End LLM-Based Automatic Heuristic Design using Reductions
+   #20169 | other topics in machine learning (i.e., none of the above)
+   https://openreview.net/forum?id=6f8qlK7wN4
+
+11. [0.5291] Generalizable Heuristic Generation Through LLMs with Meta-Optimization
+   #12359 | other topics in machine learning (i.e., none of the above)
+   https://openreview.net/forum?id=tIQZ7pVN6S
+
+12. [0.5281] Sequences of Logits Reveal the Low Rank Structure of Language Models
+   #8100 | learning theory
+   https://openreview.net/forum?id=gdZ6J5hZzF
+
+13. [0.5273] SpSCO: A Speculative Sampling Approach to Neural Combinatorial Optimization
+   #15912 | optimization
+   https://openreview.net/forum?id=pBySAuS5H5
+
+14. [0.5244] New Hybrid Fine-Tuning Paradigm for LLMs:  Algorithm Design and Convergence Analysis Framework
+   #22612 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=avgMb57IP5
+
+15. [0.5236] AutoFloorplan: Evolving Heuristics for Chip Floorplanning with Large Language Models and Textual Gradient-Guided Repair
+   #6614 | optimization
+   https://openreview.net/forum?id=DS2iool3nv
+
+16. [0.5226] Continuous Chain of Thought: Parallel Exploration and Reasoning through a Theoretical Lens
+   #22632 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=sTPKDKn5ig
+
+17. [0.5207] LinearizeLLM: An Agent-Based Framework for LLM-Driven Exact Linear Reformulation of Nonlinear Optimization Problems
+   #20699 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=tO7Je5SFF1
+
+18. [0.5206] GPTailor: Large Language Model Pruning Through Layer Cutting and Stitching
+   #12329 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=yCTpYe3UOL
+
+19. [0.5182] Decoding Large Language Diffusion Models with Foreseeing Movement
+   #18778 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=Jhx82FkPXe
+
+20. [0.5181] CAPO: Conflict-Aware Policy Optimization for Large Language Models
+   #19135 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=Kq3bPavbWW
+
+21. [0.5178] Route Experts by Sequence, Not by Token
+   #2338 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=e5mvMtH3yC
+
+22. [0.5174] Searching for Difficult-to-Translate Test Examples at Scale
+   #20174 | datasets and benchmarks
+   https://openreview.net/forum?id=Q6kNLxGfEN
+
+23. [0.5144] Solving the Traveling Salesman Problem with Positional Encoding
+   #12126 | optimization
+   https://openreview.net/forum?id=EQuoft7Yc7
+
+24. [0.5141] Hybrid Architectures for Language Models: Systematic Analysis and Design Insights
+   #15809 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=1aAFc4OANr
+
+25. [0.5136] Divide, Harmonize, Then Conquer It: Shooting Multi-Commodity Flow Problems with Multimodal Language Models
+   #9654 | other topics in machine learning (i.e., none of the above)
+   https://openreview.net/forum?id=kL9nYFvs6O
+
+26. [0.5130] DarwinLM: Evolutionary Structured Pruning of Large Language Model
+   #13073 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=DOLF9TUBfa
+
+27. [0.5079] Towards Algorithmic Diversity with Semantic Seed Sampling
+   #13796 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=Dc74QT8M9i
+
+28. [0.5038] MoEsturizer: Resource-Efficient MoE Upcycling for Small Language Models
+   #24957 | applications to computer vision, audio, language, and other modalities
+   https://openreview.net/forum?id=HDZ2GBwrWo
+
+29. [0.5025] TPD-AHD: Textual Preference Differentiation for LLM-Based Automatic Heuristic Design
+   #17494 | optimization
+   https://openreview.net/forum?id=VEMknlIPtM
+
+30. [0.5023] OptimAI: Optimization from Natural Language Using LLM-Powered AI Agents
+   #15716 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=JtgZkVdAIP
+
+31. [0.4994] FlexParallel: Automatic Parallelism Tuner via Grey-Box Optimization for Training Giant Models
+   #24012 | infrastructure, software libraries, hardware, systems, etc.
+   https://openreview.net/forum?id=IjZdj6vL7G
+
+32. [0.4991] Identifying and Reducing "Generative Collisions" in Black-Box Large Language Models
+   #18748 | alignment, fairness, safety, privacy, and societal considerations
+   https://openreview.net/forum?id=oFQN4JrriB
+
+33. [0.4985] ALIGNING LLMS WITH GRAPH NEURAL SOLVERS FOR COMBINATORIAL OPTIMIZATION
+   #16650 | optimization
+   https://openreview.net/forum?id=KSfLDk3jxI
+
+34. [0.4980] SLIM: Structure-aware Low-rank Inference Model
+   #21471 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=iY0Wi8UIjA
+
+35. [0.4962] Improving LLM-based Global Optimization with Search Space Partitioning
+   #7956 | optimization
+   https://openreview.net/forum?id=y6nhcCdQYd
+
+36. [0.4961] Large Language Model Guided Dynamic Branching Rule Scheduling in Branch-and-Bound
+   #20269 | applications to robotics, autonomy, planning
+   https://openreview.net/forum?id=8LCdjf7uIk
+
+37. [0.4960] Any-Order Any-Subset AutoRegressive Model
+   #12424 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=vtDUomlazQ
+
+38. [0.4951] Primal-Dual Direct Preference Optimization for Constrained LLM Alignment
+   #8307 | alignment, fairness, safety, privacy, and societal considerations
+   https://openreview.net/forum?id=f9R6eIsGh1
+
+39. [0.4950] Starjob: Dataset for LLM-Driven Job Shop Scheduling
+   #19808 | datasets and benchmarks
+   https://openreview.net/forum?id=t0fU6t3Skw
+
+40. [0.4947] ARS: Automatic Routing Solver with Large Language Models
+   #17238 | optimization
+   https://openreview.net/forum?id=Tw1kyA5akb
+
+41. [0.4943] POME: Post Optimization Model Edit via Matrix Orthogonalization
+   #3239 | optimization
+   https://openreview.net/forum?id=gVhZja5qrj
+
+42. [0.4930] Towards a Comprehensive Scaling Law of Mixture-of-Experts
+   #9619 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=t5sOF2WmY5
+
+43. [0.4928] How much can language models memorize?
+   #19938 | unsupervised, self-supervised, semi-supervised, and supervised representation learning
+   https://openreview.net/forum?id=NhU661EZ9C
+
+44. [0.4924] FrontierCO: Real-World and Large-Scale Evaluation of Machine Learning Solvers for Combinatorial Optimization
+   #13404 | datasets and benchmarks
+   https://openreview.net/forum?id=BVprkacwFY
+
+45. [0.4912] Global Resolution: Optimal Multi-Draft Speculative Sampling via Convex Optimization
+   #14404 | probabilistic methods (Bayesian methods, variational inference, sampling, UQ, etc.)
+   https://openreview.net/forum?id=gpsczXOsHn
+
+46. [0.4911] Recast Your Input via a Mapping Function for Alignment
+   #22338 | alignment, fairness, safety, privacy, and societal considerations
+   https://openreview.net/forum?id=sGiE05Dc0v
+
+47. [0.4905] HeuriGym: An Agentic Benchmark for LLM-Crafted Heuristics in Combinatorial Optimization
+   #13335 | datasets and benchmarks
+   https://openreview.net/forum?id=HWxHUO15Yy
+
+48. [0.4903] Towards Sampling Data Structures for Tensor Products in Turnstile Streams
+   #14222 | probabilistic methods (Bayesian methods, variational inference, sampling, UQ, etc.)
+   https://openreview.net/forum?id=ZgLEEp7AwL
+
+49. [0.4898] SPRIG: Improving Large Language Model Performance by System Prompt Optimization
+   #20168 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=VdVV24KSWK
+
+50. [0.4891] Transducing Language Models
+   #13495 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=qOyF214xmg
+
+51. [0.4882] MixLLM: Selecting Large Language Models with High-Quality Results and Minimum Inference Cost for Multi-Stage Complex Tasks
+   #11091 | other topics in machine learning (i.e., none of the above)
+   https://openreview.net/forum?id=jVjlpauPD5
+
+52. [0.4879] EGGS-PTP: An Expander-Graph Guided Structured Post-training Pruning Method for Large Language Models
+   #13511 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=3iKLzMCVmw
+
+53. [0.4876] BoRA: Towards More Expressive Low-Rank Adaptation with Block Diversity
+   #11952 | optimization
+   https://openreview.net/forum?id=eUMJXFgMjM
+
+54. [0.4876] Gradually Compacting Large Language Models for Reasoning Like a Boiling Frog
+   #20418 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=jRyvwjRaU0
+
+55. [0.4874] LLM-Guided Search for Deletion-Correcting Codes
+   #16734 | neurosymbolic & hybrid AI systems (physics-informed, logic & formal reasoning, etc.)
+   https://openreview.net/forum?id=Tyqty7Wa8k
+
+56. [0.4872] Automated Algorithm Design with LLMs: A Benchmark-Assisted Approach to Black-Box Optimization
+   #2452 | optimization
+   https://openreview.net/forum?id=ad9BPW5bI6
+
+57. [0.4868] Pretraining Scaling Laws for Generative Evaluations of Language Models
+   #13639 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=Ym33xJYINV
+
+58. [0.4862] Parallel Token Generation for  Language Models
+   #14536 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=AGJomYSrUG
+
+59. [0.4851] Cactus: Accelerating Auto-Regressive Decoding with Constrained Acceptance Speculative Sampling
+   #13094 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=lpUIkCAy9p
+
+60. [0.4851] Nature-Inspired Population-Based Evolution of Large Language Models
+   #11232 | generative models
+   https://openreview.net/forum?id=N8CZOsnBbg
+
+61. [0.4850] Online Algorithm Configuration for MILP Re-Optimization with LLM Guidance
+   #16835 | optimization
+   https://openreview.net/forum?id=xbyebbS1ZF
+
+62. [0.4849] Beyond Fixed: Training-Free Variable-Length Denoising for Diffusion Large Language Models
+   #1382 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=Ic2A2gCseC
+
+63. [0.4849] Adaptive Test-Time Compute Allocation via Training-Free Difficulty Proxies
+   #12848 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=ztGHhyicWs
+
+64. [0.4849] SAC: Adaptive Learning Rate Scaling with Architectural Constraints
+   #4105 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=EB92tITeNq
+
+65. [0.4848] MoSA: Mosaic Shared Adaptation of Large Language Models
+   #11283 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=jg8JIKBAlb
+
+66. [0.4834] Large Language Models as a Computable Surrogate to Solomonoff Induction
+   #15102 | learning theory
+   https://openreview.net/forum?id=psDyG1FDzX
+
+67. [0.4830] Minibatch Optimal Transport and Perplexity Bound Estimation in Discrete Flow Matching
+   #12796 | generative models
+   https://openreview.net/forum?id=1B7tAhrzT1
+
+68. [0.4825] Improving Tool Calling Accuracy for Large Language Models
+   #8248 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=gkTx4sPyAw
+
+69. [0.4825] On the Efficiency of Structured Pruning in Small Language Model Pretraining
+   #22967 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=KVUMuxHNLW
+
+70. [0.4822] Agent-REINFORCE: Searching Compute-Optimal Multi-LLM Collaboration Graph for Test-Time Scaling
+   #14681 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=9G8Rhlp1AD
+
+71. [0.4814] Sequence Length Matters in Data Scheduling for Accelerating Language Model Pretraining
+   #10355 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=ddf7XdLtNO
+
+72. [0.4808] Experience-Guided Reflective Co-Evolution of Prompts and Heuristics for Automatic Algorithm Design
+   #14854 | applications to computer vision, audio, language, and other modalities
+   https://openreview.net/forum?id=oD9RwlFqEE
+
+73. [0.4808] OMAC: A Broad Optimization Framework for LLM-Based Multi-Agent Collaboration
+   #2689 | applications to computer vision, audio, language, and other modalities
+   https://openreview.net/forum?id=AVCAUmb1aK
+
+74. [0.4806] Discrete Adjoint Matching
+   #15413 | probabilistic methods (Bayesian methods, variational inference, sampling, UQ, etc.)
+   https://openreview.net/forum?id=VXB4xxAgOf
+
+75. [0.4802] BeyondBench: Benchmark-Free Evaluation of Reasoning in Language Models
+   #16529 | datasets and benchmarks
+   https://openreview.net/forum?id=mIKqVWGjwI
+
+76. [0.4801] DASHCO: Data-Aware SAT Heuristics Combinations Optimization via Large Language Models
+   #17745 | other topics in machine learning (i.e., none of the above)
+   https://openreview.net/forum?id=x3WyBB7Fma
+
+77. [0.4797] Model Merging Scaling Laws in Large Language Models
+   #18627 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=vpKXTmMtBQ
+
+78. [0.4797] Two (narrow) heads are better than (an arbitrarily wide) one
+   #20848 | learning on graphs and other geometries & topologies
+   https://openreview.net/forum?id=RRmPbbZsvl
+
+79. [0.4792] Pruning as a Cooperative Game: Surrogate-Assisted Layer Contribution Estimation for Large Language Models
+   #10392 | other topics in machine learning (i.e., none of the above)
+   https://openreview.net/forum?id=Azgxj7ZGCX
+
+80. [0.4790] Gold Panning: Turning Positional Bias into Signal for Multi-Document LLM Reasoning
+   #22258 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=gcTH1kFrv6
+
+81. [0.4789] RECAST: Expanding the Boundaries of LLMs' Complex Instruction Following with Multi-Constraint Data
+   #12065 | generative models
+   https://openreview.net/forum?id=90tCp2KszA
+
+82. [0.4788] SPOGW: a Score-based Preference Optimization method via Group-Wise comparison for workflows
+   #15494 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=7VhSEqDzSt
+
+83. [0.4786] ShinkaEvolve: Towards Open-Ended and Sample-Efficient Program Evolution
+   #1754 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=lKEdGCoDNC
+
+84. [0.4781] Markovian Generation Chains in Large Language Models
+   #21102 | alignment, fairness, safety, privacy, and societal considerations
+   https://openreview.net/forum?id=nTDn4OMiym
+
+85. [0.4780] AutoPBO: LLM-powered Optimization for Local Search PBO Solvers
+   #12681 | optimization
+   https://openreview.net/forum?id=mpwnjHxtBP
+
+86. [0.4780] MoEs Are Stronger than You Think: Hyper-Parallel Inference Scaling with RoE
+   #21620 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=WGtroamPgq
+
+87. [0.4779] MaskPro: Linear-Space Probabilistic Learning for Strict (N:M)-Sparsity on LLMs
+   #19983 | other topics in machine learning (i.e., none of the above)
+   https://openreview.net/forum?id=0R06BghLJX
+
+88. [0.4775] Graph Foundation Models: Bridging Language Model Paradigms and Graph Optimization
+   #23856 | learning on graphs and other geometries & topologies
+   https://openreview.net/forum?id=asp9P74Dxs
+
+89. [0.4773] Constrained Decoding of Diffusion LLMs with Context-Free Grammars
+   #8023 | generative models
+   https://openreview.net/forum?id=7Sph4KyeYO
+
+90. [0.4773] Self-Speculative Decoding Accelerates Lossless Inference in Any-Order and Any-Subset Autoregressive Models
+   #13411 | generative models
+   https://openreview.net/forum?id=hZnibTOke7
+
+91. [0.4772] Continuous Autoregressive Language Models
+   #2351 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=Ce6Mep9oie
+
+92. [0.4771] The Softmax Bottleneck Does Not Limit the Probabilities of the Most Likely Tokens
+   #9636 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=DgJqQk6y19
+
+93. [0.4771] Towards Efficient Optimizer Design for LLM via Structured Fisher Approximation with a Low-Rank Extension
+   #17236 | optimization
+   https://openreview.net/forum?id=KUFZXdem5R
+
+94. [0.4769] Prompt and Parameter Co-Optimization for Large Language Models
+   #10243 | applications to computer vision, audio, language, and other modalities
+   https://openreview.net/forum?id=WPJnLvQrP3
+
+95. [0.4765] Multi-objective Large Language Model Alignment with Hierarchical Experts
+   #8936 | alignment, fairness, safety, privacy, and societal considerations
+   https://openreview.net/forum?id=UhmEdfAk46
+
+96. [0.4763] Sampling from Your Language Model One Byte at a Time
+   #14331 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=dDvH0UA0CZ
+
+97. [0.4762] LILO: Bayesian Optimization with Interactive Natural Language Feedback
+   #14265 | probabilistic methods (Bayesian methods, variational inference, sampling, UQ, etc.)
+   https://openreview.net/forum?id=70fI4ptT4b
+
+98. [0.4761] Progressive Binarization with Semi-Structured Pruning for LLMs
+   #22729 | applications to computer vision, audio, language, and other modalities
+   https://openreview.net/forum?id=FQ8KX1pxeo
+
+99. [0.4760] NoLoCo: No-all-reduce Low Communication Training Method for Large Language Models
+   #13058 | optimization
+   https://openreview.net/forum?id=Ej1DYLYzFU
+
+100. [0.4758] Principled and Tractable RL for Reasoning with Diffusion Language Models
+   #23639 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=0vs1YLmmQa
+
+101. [0.4745] Recurrent State Encoders for Efficient Neural Combinatorial Optimization
+   #15183 | optimization
+   https://openreview.net/forum?id=5x3qj0fRgK
+
+102. [0.4743] PASER: Post-Training Data Selection for Efficient Pruned Large Language Model Recovery
+   #13048 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=mWKvHBINSl
+
+103. [0.4741] COSMOS: A Hybrid Adaptive Optimizer for Efficient Training of Large Language Models
+   #22791 | optimization
+   https://openreview.net/forum?id=j2QTOOtM8R
+
+104. [0.4740] Knapsack RL: Unlocking Exploration of LLMs via Optimizing Budget Allocation
+   #19178 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=uqxNmKw7DI
+
+105. [0.4734] Effect of Document Packing on the Latent Multi-Hop Reasoning Capabilities of Large Language Models
+   #4692 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=tlSAUOGqRU
+
+106. [0.4733] DARE:Difficulty-Aware Dynamic Routing for Mixture of Experts
+   #8748 | other topics in machine learning (i.e., none of the above)
+   https://openreview.net/forum?id=S7o8zBYw4V
+
+107. [0.4732] Compressing Large MoE Models via Efficient Pruning and Data-Aware Calibration
+   #15245 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=dJy6z9peC7
+
+108. [0.4731] Sparser Block-Sparse Attention via Token Permutation
+   #11325 | other topics in machine learning (i.e., none of the above)
+   https://openreview.net/forum?id=wTZt07hzZf
+
+109. [0.4729] PerfCoder: Large Language Models for Interpretable Code Performance Optimization
+   #11917 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=PHJ5yK8b8V
+
+110. [0.4726] Sound Probabilistic Safety Bounds for Large Language Models
+   #19627 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=papImkPLf5
+
+111. [0.4726] DAG-MoE: From Simple Mixture to Structural Aggregation in Mixture-of-Experts
+   #21051 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=gdCdukkxKP
+
+112. [0.4726] Adversarial examples for heuristics in combinatorial optimization: An LLM based approach
+   #18710 | other topics in machine learning (i.e., none of the above)
+   https://openreview.net/forum?id=fasU6t3hL4
+
+113. [0.4725] LRanker: LLM Ranker for Massive Candidates
+   #20091 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=XYB67Nu2xD
+
+114. [0.4723] GPTOpt: Towards Efficient LLM-based Black-Box Optimization
+   #20574 | optimization
+   https://openreview.net/forum?id=aFJc2POtEQ
+
+115. [0.4716] Leveraging Coordinate Momentum in SignSGD and Muon: Memory-Optimized Zero-Order LLM Fine-Tuning
+   #4033 | optimization
+   https://openreview.net/forum?id=TRVLwnAY4n
+
+116. [0.4709] SuperCoder: Assembly Program Superoptimization with Large Language Models
+   #15850 | datasets and benchmarks
+   https://openreview.net/forum?id=30iarHLvCS
+
+117. [0.4703] When to Ensemble: Identifying Token-Level Points for Stable and Fast LLM Ensembling
+   #7025 | other topics in machine learning (i.e., none of the above)
+   https://openreview.net/forum?id=kfPkF2ACDM
+
+118. [0.4702] Entropy-Based Block Pruning for Efficient Large Language Models
+   #14217 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=bzQvL797PS
+
+119. [0.4697] Test-Time Scaling for Multistep Reasoning in Small Language Models via A* Search
+   #21551 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=eJ1yDj6vtH
+
+120. [0.4694] OptiMind: Teaching LLMs to Think Like Optimization Experts
+   #21944 | optimization
+   https://openreview.net/forum?id=CvwLtwlraW
+
+121. [0.4690] Diffusion Language Models are Provably Optimal Parallel Samplers
+   #23946 | learning theory
+   https://openreview.net/forum?id=5bkAbueJwM
+
+122. [0.4687] Rethinking Uncertainty Estimation in LLMs: A Principled Single-Sequence Measure
+   #15092 | probabilistic methods (Bayesian methods, variational inference, sampling, UQ, etc.)
+   https://openreview.net/forum?id=wdhruVcRx1
+
+123. [0.4686] Don’t Pay Attention
+   #14198 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=7WLtbB0pay
+
+124. [0.4686] OPT-BENCH: Evaluating LLM Agent on Large-Scale Search Spaces Optimization Problems
+   #9242 | datasets and benchmarks
+   https://openreview.net/forum?id=FYke66uUU1
+
+125. [0.4685] From Pseudo-Balancing to True Specialization: Memory-Aware Routing for Mixture-of-Experts
+   #16573 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=KTVW33GNRU
+
+126. [0.4677] LEAP: Learning Expert Adaptation & Pruning for Task-Specialized MoE Language Models
+   #13755 | other topics in machine learning (i.e., none of the above)
+   https://openreview.net/forum?id=HDu9u0gYxh
+
+127. [0.4675] Turning Speech Language Models into Multilingual Listeners
+   #21624 | datasets and benchmarks
+   https://openreview.net/forum?id=cL3M1VwZyn
+
+128. [0.4674] Sample-Efficient Alignment for LLMs
+   #16905 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=Hw4INTxVlU
+
+129. [0.4671] Automating Thought of Search: A Journey Towards Soundness and Completeness
+   #18270 | applications to robotics, autonomy, planning
+   https://openreview.net/forum?id=DE9Vapk5DW
+
+130. [0.4669] WETAP: Speculative Decoding with Width-Entropy Tree and Adaptive Pruning for LLMs Inference Acceleration
+   #15762 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=Cae9he70Th
+
+131. [0.4669] OptiVer: Unleashing the Power of LLMs for Optimization Modeling via Dual-Side Verification
+   #22483 | other topics in machine learning (i.e., none of the above)
+   https://openreview.net/forum?id=w696Vhv5B2
+
+132. [0.4668] Efficient Metric for Distinguishing Memorization from Generalization in Large Language Models
+   #20602 | generative models
+   https://openreview.net/forum?id=lduxR2cLsS
+
+133. [0.4668] DelvePO: Direction-Guided Self-Evolving Framework for Flexible Prompt Optimization
+   #15620 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=us7gZCoTZ0
+
+134. [0.4663] Fine-grained Token Allocation Via Operation Pruning for Efficient MLLMs
+   #4571 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=T6np2Ld3ag
+
+135. [0.4662] JIONE: an Approach for Merging Large Language Models via Teacher–Student Prediction Refinement
+   #25005 | transfer learning, meta learning, and lifelong learning
+   https://openreview.net/forum?id=USEpVtH8qV
+
+136. [0.4655] Constrained Adaptive Rejection Sampling
+   #6397 | generative models
+   https://openreview.net/forum?id=OhndOnT4Ih
+
+137. [0.4655] ACON: Optimizing Context Compression for Long-horizon LLM Agents
+   #10191 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=7JbSwX6bNL
+
+138. [0.4654] Synthesizing Feature Extractors: An Agentic Approach for Algorithm Selection
+   #24962 | optimization
+   https://openreview.net/forum?id=O4rR59WKHL
+
+139. [0.4651] GatePro: Parameter-Free Expert Selection Optimization for Mixture-of-Experts Models
+   #9974 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=X4U5ZUB6bY
+
+140. [0.4644] Breaking Memory and Communication Barriers in Model-Parallel Fine-Tuning of Large Language Models
+   #568 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=FF3o9flavI
+
+141. [0.4637] AutoSP: Unlocking Long-Context LLM Training Via Compiler-Based Sequence Parallelism
+   #22044 | infrastructure, software libraries, hardware, systems, etc.
+   https://openreview.net/forum?id=0fgsHvmBBI
+
+142. [0.4633] ReFusion: A Diffusion Large Language Model with Parallel Autoregressive Decoding
+   #16875 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=LBtWaUc7FE
+
+143. [0.4630] Unbiased Gradient Low-Rank Projection
+   #19147 | optimization
+   https://openreview.net/forum?id=k3qeF8tBfm
+
+144. [0.4628] Multi-Dimensional Constraint Integration Method for Large Language Models via Lyapunov Stability Theory
+   #6192 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=rbl8fHjLuF
+
+145. [0.4627] TROLL: Trust Regions Improve Reinforcement Learning for Large Language Models
+   #5868 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=X9D5MVpPJ9
+
+146. [0.4626] Intrinsic Entropy of Context Length Scaling in LLMs
+   #9559 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=vnipyA8c9V
+
+147. [0.4625] Context Attribution with Multi-Armed Bandit Optimization
+   #14703 | interpretability and explainable AI
+   https://openreview.net/forum?id=Z0wK97A4WY
+
+148. [0.4621] Mind the Gap... or Not? How Translation Errors and Evaluation Details Skew Multilingual Results
+   #18764 | datasets and benchmarks
+   https://openreview.net/forum?id=zHjNmKiJCS
+
+149. [0.4620] From Compression to Generalization: Language Model Distillation With Grafting
+   #1738 | applications to computer vision, audio, language, and other modalities
+   https://openreview.net/forum?id=h1rCBN6hWi
+
+150. [0.4617] Theoretical Modeling of Large Language Model Self-Improvement Training Dynamics Through Solver-Verifier Gap
+   #7527 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=Hh7x3c0cZl
+
+151. [0.4615] ChinaTravel: An Open-Ended Travel Planning Benchmark with Compositional Constraint Validation for Language Agents
+   #13317 | datasets and benchmarks
+   https://openreview.net/forum?id=0YRVlxY9BH
+
+152. [0.4604] VRPAgent: LLM-Driven Discovery of Heuristic Operators for Vehicle Routing Problems
+   #19416 | optimization
+   https://openreview.net/forum?id=02mBAZjFzp
+
+153. [0.4604] Landmark-Guided Policy Optimization for Multi-Objective Language Model Selection
+   #16806 | transfer learning, meta learning, and lifelong learning
+   https://openreview.net/forum?id=kL5F9sRssn
+
+154. [0.4603] Robust Multi-Objective Controlled Decoding of Large Language Models
+   #13038 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=i0Nno5MgXt
+
+155. [0.4602] LitePruner: A Lightweight Realtime Token Pruner before Large Language Models
+   #16269 | applications to computer vision, audio, language, and other modalities
+   https://openreview.net/forum?id=zyTGgLUdCb
+
+156. [0.4600] KerZOO: Kernel Function Informed Zeroth-Order Optimization for Accurate and Accelerated LLM Fine-Tuning
+   #12282 | generative models
+   https://openreview.net/forum?id=aN3rmWuMtf
+
+157. [0.4598] One Tokenizer To Rule Them All: Emergent Language Plasticity via Multilingual Tokenizers
+   #11453 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=RMT6CZquly
+
+158. [0.4597] Foundation Models for Industrial Scheduling Leveraging the Techniques from LLMs
+   #4828 | applications to robotics, autonomy, planning
+   https://openreview.net/forum?id=qRjLjYrvMi
+
+159. [0.4595] SO-Lazy-BiO: Accelerating Bilevel Optimization with Reduced Second-Order Information Computation
+   #15198 | optimization
+   https://openreview.net/forum?id=9Yfslej5rC
+
+160. [0.4592] LLM-Powered Preference Elicitation in Combinatorial Assignment
+   #22918 | optimization
+   https://openreview.net/forum?id=uOzMs5rTIF
+
+161. [0.4588] Cross-Tokenizer Likelihood Scoring Algorithms for Language Model Distillation
+   #8385 | probabilistic methods (Bayesian methods, variational inference, sampling, UQ, etc.)
+   https://openreview.net/forum?id=hD69qj15Os
+
+162. [0.4586] Auto-regressive In-context Demonstration Selection
+   #9904 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=lp2EtO9A01
+
+163. [0.4581] Large Language Model Compression with Global Rank and Sparsity Optimization
+   #16088 | unsupervised, self-supervised, semi-supervised, and supervised representation learning
+   https://openreview.net/forum?id=ZaPmQ0NHs4
+
+164. [0.4580] Accelerating Discrete Diffusion Decoding with Parallel Scan
+   #3043 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=rQM3oU9cyg
+
+165. [0.4578] CALM: Co-evolution of Algorithms and Language Model for Automatic Heuristic Design
+   #14783 | optimization
+   https://openreview.net/forum?id=x6bG2Hoqdf
+
+166. [0.4577] NRGPT: An Energy-based Alternative for GPT
+   #13858 | generative models
+   https://openreview.net/forum?id=B3Muyi2zgo
+
+167. [0.4576] Randomized Gradient Subspaces for Efficient Large Language Model Training
+   #20846 | optimization
+   https://openreview.net/forum?id=QAN0Be35u1
+
+168. [0.4574] ACPBench Hard: Unrestrained Reasoning about Action, Change, and Planning
+   #20990 | datasets and benchmarks
+   https://openreview.net/forum?id=WIXohR7mEo
+
+169. [0.4573] Balanced Low-Rank Adaptation: Removing Invariance for Fast and Stable Fine-Tuning
+   #11305 | optimization
+   https://openreview.net/forum?id=KH9zmL4eyw
+
+170. [0.4571] Thanos: A Block-wise Pruning Algorithm for Efficient Large Language Model Compression
+   #25458 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=4TFfiG17ec
+
+171. [0.4570] Measuring Scarcity–Complexity Collision in Language Model Estimation
+   #13809 | causal reasoning
+   https://openreview.net/forum?id=bkSKvJjziW
+
+172. [0.4569] Compute Where It Counts: Adaptive Compute Allocation for Large Language Models via Learned Granular Sparsity
+   #15621 | other topics in machine learning (i.e., none of the above)
+   https://openreview.net/forum?id=xNeyfH3qZS
+
+173. [0.4567] Extending $\mu$P: Spectral Conditions for Feature Learning Across Optimizers
+   #21622 | optimization
+   https://openreview.net/forum?id=TfJ67nPJl2
+
+174. [0.4559] Improving Reasoning for Diffusion Language Models via Group Diffusion Policy Optimization
+   #21492 | generative models
+   https://openreview.net/forum?id=JaqvespRBP
+
+175. [0.4554] CoolPrompt: An Automatic Prompt Optimization Framework for Large Language Models
+   #19102 | applications to computer vision, audio, language, and other modalities
+   https://openreview.net/forum?id=XGECnjDEcS
+
+176. [0.4551] Knowledgeable Language Models as Black-Box Optimizers for Personalized Medicine
+   #22172 | applications to physical sciences (physics, chemistry, biology, etc.)
+   https://openreview.net/forum?id=w025bYRVkO
+
+177. [0.4550] PrunedLoRA: Robust Gradient-Based Structured Pruning for Low-rank Adaptation in Fine-tuning
+   #14707 | unsupervised, self-supervised, semi-supervised, and supervised representation learning
+   https://openreview.net/forum?id=eWsyMMhSCb
+
+178. [0.4549] Lossless Vocabulary Reduction for Auto-Regressive Language Models
+   #4391 | probabilistic methods (Bayesian methods, variational inference, sampling, UQ, etc.)
+   https://openreview.net/forum?id=xAvqHtLVgz
+
+179. [0.4548] Adaptive Acquisition Selection for Bayesian Optimization with Large Language Models
+   #18333 | optimization
+   https://openreview.net/forum?id=EPKmSgXvRe
+
+180. [0.4548] BLISS: A Lightweight Bilevel Influence Scoring Method for Data Selection in Language Model Pretraining
+   #12629 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=DqAeSBQckF
+
+181. [0.4547] Entropy-informed Decoding: Adaptive Information-Driven Branching
+   #9388 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=dzmh4xA4Pq
+
+182. [0.4546] Efficient Multi-objective Prompt Optimization via Pure-exploration Bandits
+   #22989 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=M0n3gtwHNg
+
+183. [0.4542] On the Limits of Test-Time Compute: Sequential Reward Filtering for Better Inference
+   #15871 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=aC2ku2uKcB
+
+184. [0.4540] SFT-GO: Supervised Fine-Tuning with Group Optimization for Large Language Models
+   #13590 | unsupervised, self-supervised, semi-supervised, and supervised representation learning
+   https://openreview.net/forum?id=dPJJLv4q3r
+
+185. [0.4539] SparCas: A Dimension-First Cascade for Efficient Long-Context LLM Inference
+   #14902 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=LRdO5YypZ9
+
+186. [0.4536] The Unseen Frontier: Pushing the Limits of LLM Sparsity with Surrogate-Free ADMM
+   #2370 | other topics in machine learning (i.e., none of the above)
+   https://openreview.net/forum?id=ek6dQSumYx
+
+187. [0.4535] Adaptive Dual-Granularity Pruning Method for Large Language Models
+   #18599 | generative models
+   https://openreview.net/forum?id=MXthWqtMgx
+
+188. [0.4534] ML²B: Multi-Lingual ML Benchmark For AutoML
+   #20002 | datasets and benchmarks
+   https://openreview.net/forum?id=Wo8TGtKjix
+
+189. [0.4532] Chain-of-Learngene: A Scalable Learngene-based Paradigm for Building and Initializing Variable-Sized Language Models
+   #6763 | other topics in machine learning (i.e., none of the above)
+   https://openreview.net/forum?id=UEamVVlLBd
+
+190. [0.4531] CrossPL: Systematic Evaluation of Large Language Models for Cross Programming Language Interoperating Code Generation
+   #10218 | datasets and benchmarks
+   https://openreview.net/forum?id=p4ERSIzHdL
+
+191. [0.4530] Esoteric Language Models
+   #14645 | generative models
+   https://openreview.net/forum?id=XepOJx5ng4
+
+192. [0.4528] Equilibrium Language Models
+   #6608 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=lqJT6xmuH3
+
+193. [0.4526] Active Model Selection for Large Language Models
+   #19813 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=i308eYimsa
+
+194. [0.4523] Automated Optimization Modeling via a Localizable Error-Driven Perspective
+   #62 | applications to computer vision, audio, language, and other modalities
+   https://openreview.net/forum?id=tw1IWcVKTT
+
+195. [0.4519] Scalable Evaluation of Language Models with Generated Games
+   #18624 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=2WQAEQLq3E
+
+196. [0.4519] CATS: Cost-Augmented Tree Search for LLM-Assisted Planning
+   #20433 | neurosymbolic & hybrid AI systems (physics-informed, logic & formal reasoning, etc.)
+   https://openreview.net/forum?id=uqVBUDwtS6
+
+197. [0.4517] dParallel: Learnable Parallel Decoding for dLLMs
+   #2542 | generative models
+   https://openreview.net/forum?id=hVOcstAURb
+
+198. [0.4515] Blockwise SFT for Diffusion Language Models: Reconciling Bidirectional Attention and Autoregressive Decoding
+   #3848 | generative models
+   https://openreview.net/forum?id=FArdLKP4zY
+
+199. [0.4515] On Natural Ways to Generate and Their Provable Power
+   #14419 | foundation or frontier models, including LLMs
+   https://openreview.net/forum?id=PKidr9Ruli
+
+200. [0.4514] LLM-based Automated Theorem Proving Hinges on Scalable Synthetic Data Generation
+   #2562 | neurosymbolic & hybrid AI systems (physics-informed, logic & formal reasoning, etc.)
+   https://openreview.net/forum?id=qfW4IrUuig
+
+Saved to results.json

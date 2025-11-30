@@ -2,7 +2,7 @@ import requests
 import json
 import time
 
-def fetch_submissions(venue_id, offset=0, limit=1000):
+def fetch_submissions(venue_id, offset=0, limit=40000):
     url = "https://api2.openreview.net/notes"
     params = {
         "content.venueid": venue_id,
@@ -19,7 +19,7 @@ def fetch_submissions(venue_id, offset=0, limit=1000):
 def crawl_papers(venue_id, output_file):
     all_papers = []
     offset = 0
-    limit = 1000
+    limit = 100
     
     print(f"Fetching papers from {venue_id}...")
     
@@ -60,7 +60,7 @@ def crawl_papers(venue_id, output_file):
 
 if __name__ == "__main__":
     crawl_papers(
-        venue_id="ICLR.cc/2026/Conference/Submission",
-        output_file="iclr2026_papers.json"
+        venue_id="NeurIPS.cc/2025/Conference",
+        output_file="nips2025_papers.json"
     )
 

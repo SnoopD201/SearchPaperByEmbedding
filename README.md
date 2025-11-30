@@ -43,8 +43,8 @@ searcher.compute_embeddings()
 # Search with example papers that you are interested in
 examples = [
     {
-        "title": "Your paper title",
-        "abstract": "Your paper abstract..."
+        "title": "Combinatorial Optimization",
+        "abstract": "Large Language Model for Combinatorial Optimization"
     }
 ]
 
