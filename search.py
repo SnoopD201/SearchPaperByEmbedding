@@ -142,6 +142,7 @@ class PaperSearcher:
             sim = result['similarity']
             
             print(f"{i}. [{sim:.4f}] {paper['title']}")
+            print(paper.get('abstract', 'N/A'))
             print(f"   #{paper.get('number', 'N/A')} | {paper.get('primary_area', 'N/A')}")
             print(f"   {paper['forum_url']}\n")
     
