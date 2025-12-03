@@ -60,7 +60,7 @@ def crawl_papers(venue_id, output_file):
 
 if __name__ == "__main__":
     crawl_papers(
-        venue_id="NeurIPS.cc/2025/Conference",
-        output_file="nips2025_papers.json"
+        venue_id="colmweb.org/COLM/2024/Conference",
+        output_file="colm2024_papers.json"
     )
 

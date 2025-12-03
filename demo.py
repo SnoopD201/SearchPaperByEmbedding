@@ -1,7 +1,7 @@
 from search import PaperSearcher
 
 # Use local model (free)
-searcher = PaperSearcher('nips2025_papers.json', model_type='local')
+searcher = PaperSearcher('colm2024_papers.json', model_type='local')
 
 # Or use OpenAI (better quality)
 # searcher = PaperSearcher('iclr2026_papers.json', model_type='openai')
